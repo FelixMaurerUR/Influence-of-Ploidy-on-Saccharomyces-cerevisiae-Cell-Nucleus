@@ -1,5 +1,4 @@
-1. Abbildungen - Chromatin Coverage R
-Code for statistical analysis of chromatin coverage data.
+1. Abbildungen - Chromatin Coverage R//Code for statistical analysis of chromatin coverage data.
 2. Abbildungen - Zellkern- und Histonvolumen R
 Code for statistical analysis of cell nucleus and histone volume 
 3. nuclear_histone_volume_ratio_pipeline_1n_2n (1)
